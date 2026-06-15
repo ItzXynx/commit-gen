@@ -5,3 +5,4 @@ generate commit messages
 ```
 python main.py add user auth
 ```
+
